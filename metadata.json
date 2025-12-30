@@ -1,0 +1,7 @@
+{
+  "name": "30122025 changes bjgjys ai",
+  "description": "AI-powered tool for extracting vehicle registration data from images and PDFs into Excel.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
